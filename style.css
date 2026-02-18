@@ -1,0 +1,24 @@
+.translator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.translator input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 300px;
+}
+
+.translator button {
+    padding: 10px 15px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.translator button:hover {
+    background-color: #0056b3;
+}
