@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"battlerName":"Hiroshi","characterIndex":0,"characterName":"HiroshiSmall","classId":5,"equips":[0,1,0,0,0],"faceIndex":0,"faceName":"Hiroshi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hiroshi","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Hiroshi","characterIndex":0,"characterName":"HiroshiShrink","classId":5,"equips":[0,1,0,0,0],"faceIndex":0,"faceName":"Hiroshi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Shrunken Hiroshi","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Natsuki","characterIndex":0,"characterName":"Natsuki","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Natsuki1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Natsuki","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"Maria","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Maria","traits":[],"initialLevel":1,"maxLevel":99,"name":"Maria","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Hitomi1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Hitomi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hitomi","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"Noriko","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Other","traits":[],"initialLevel":1,"maxLevel":99,"name":"Noriko","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"Renna","classId":5,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"Renna1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Renna","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"takahashi","classId":4,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"takahashi","traits":[],"initialLevel":1,"maxLevel":99,"name":"Takahashi","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"Reiko","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Reiko1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reiko","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"Minori","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Minori1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Minori","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"Kurokawa","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kurokawa","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":1,"characterName":"Student10","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Megumi1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Female Student","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"Akira","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Akira1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Akira","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"Yurkio","classId":5,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Yuriko1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Yuriko","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"Student1","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Student1 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kotomi","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"Student2","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Miki","nickname":"","note":"","profile":""},
+{"id":17,"battlerName":"","characterIndex":0,"characterName":"Yuka","classId":4,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Yuka 1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Principal Yuka","nickname":"","note":"","profile":""},
+{"id":18,"battlerName":"","characterIndex":0,"characterName":"Sasami","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Sasami1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sasami","nickname":"","note":"","profile":""},
+{"id":19,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
